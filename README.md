@@ -1,7 +1,7 @@
 TO-DO-LIST
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can see the website live at:
+You can see the website live at: https://gokuluvarajofficial.github.io/Veriech-Task3/
 
 ABOUT THIS PROJECT-:
 
